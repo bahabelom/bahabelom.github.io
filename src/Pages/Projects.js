@@ -1,7 +1,6 @@
 import React from 'react';
 import p1 from '../images/1.png'; // Import the image
-import p2 from '../images/2.png'; // Import the image
-import p3 from '../images/3.png'; // Import the image
+
 
 const Projects = () => {
   return (
